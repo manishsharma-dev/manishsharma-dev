@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manishsharma-dev
-- 👀 I’m interested in javascript, typescript and angular
+- 👀 I’m interested in anything JavaScript.
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on angular and react
 - 📫 How to reach me - sharmakmanish1@gmail.com
